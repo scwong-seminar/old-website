@@ -1,5 +1,5 @@
 #+options: toc:nil num:nil html-postamble:nil
-
+#+HTML: Literal HTML code for export
 * People
 
 | Name             | Year | Interests                             | Current positin                                          | Graduate school                      | contact                                  |
@@ -67,7 +67,7 @@
 | Wu, Ruijun       | 2011 |                                       |                                                          | Institute of Math, China             | =wuruijun2 AT 126 DOT com=                 |
 | Xia, Bingyu      | 2011 | Number Theory                         |                                                          | Ohio State University                | =xiabingyu AT gmail DOT com=               |
 | Xie, Yi          | 2011 | Low Dimensional Topology              |                                                          | Harvard University                   | =elohimzh AT 163 DOT com=                  |
-| Xu, Xiaoqian     | 2011 | Analysis                              |                                                          | University of Wisconsin              | =exittoo AT 163 DOT com=                   |
+| Xu, Xiaoqian     | 2011 | Analysis                              |                                                          | University of Wisconsin              | =xxu@math.cmu.edu=                         |
 | Zhang, Dingxin   | 2011 | Algebraic Geometry                    |                                                          | Stony Brook University               | =dzhang AT math DOT sunysb DOT edu=        |
 | Zhang, Zhuohui   | 2011 | Geometry and Topology                 |                                                          | Rutgers University                   | =tyotakuki AT 126 DOT com=                 |
 | Long, Yang       | 2011 |                                       |                                                          | Institute of Math, China             | =longyangok AT gmail DOT com=              |
